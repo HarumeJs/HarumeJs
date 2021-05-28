@@ -39,9 +39,3 @@
     <a href="https://t.me/KiraNaoko"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white" /> </a>
     <a href="mailto:Harume-outlook.com"> <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
 </p>
-
-# 📊 Моя статистика
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rxflex&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smookywizard&theme=dark" />
-</p>
