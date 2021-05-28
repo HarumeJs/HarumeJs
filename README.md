@@ -30,7 +30,7 @@
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
     <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm%20-4B32C3?&style=for-the-badge&logo=Webstorm&logoColor=white" />
-    <img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea%20%20Effects-fe315d?&style=for-the-badge&logo=Intellij-Idea&logoColor=white" />
+    <img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea%20%20-fe315d?&style=for-the-badge&logo=Intellij-Idea&logoColor=white" />
 </p>
 
 # ✉ Мои контакты
