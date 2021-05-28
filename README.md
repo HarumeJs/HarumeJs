@@ -12,9 +12,11 @@
     - **ENDLESS EMPIRE** (2021) - Разработчик и владелец;
     - **Hoteru** (2021-СЕЙЧАС) - Разработчик и помощник Aizen;
     - **Ethereal** (2020) - Разработчик;
+    - **HighTwink Games** (2021-СЕЙЧАС) - Разработчик js/java;
 * **Проекты:**
     - [**Naoko**](https://discord.gg/SfRmKNjh6b) - Ламповый сервер для общения;
     - [**Hoteru**](https://discord.gg/SfRmKNjh6b) - Сервер для общения и поиска друзей;
+    - [**HighTwink Games**](https://discord.gg/YP432z25UM) - Приятный Minecraft сервер с кучей режимов;
 
 # ⌨ Мои скиллы
 <p align="center">
