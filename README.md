@@ -5,8 +5,8 @@
 * **My name:** Dmitry!
 * **My site:** https://neurosis.xyz/
 * **Work experience:**
-    - **Naoko** (2021) - Owner and Developer;
     - **Akemi Community** (2020-2021) - Admin;
+    - **Naoko** (2021) - Owner and Developer;
     - **ArchiTect** (2020-2021) - Moderator and Developer;
     - **ENDLESS EMPIRE** (2021) - Developer and Owner;
     - **Hoteru** (2021) - Developer;
