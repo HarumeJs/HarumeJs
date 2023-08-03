@@ -3,7 +3,7 @@
 # 👨‍💻 About me
 
 * **My name:** Dmitry!
-* **My site:** https://levshin.engineer😛
+* **My site:** https://levshin.engineer
 * **Work experience:**
     - **Akemi Community** (2020-2021) - Admin;
     - **Naoko** (2021) - Owner and Developer;
